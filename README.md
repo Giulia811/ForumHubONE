@@ -1,4 +1,4 @@
-# 🚀 Forum API Challenge
+# 🚀 ForumHubONE
 
 Este projeto consiste na criação de uma API Restful para um fórum, desenvolvida com **Spring Boot** e **MySQL**. A aplicação oferece funcionalidades para gerenciamento de usuários, tópicos e respostas, implementando boas práticas de design e persistência de dados.
 
